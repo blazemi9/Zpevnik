@@ -1,0 +1,7 @@
+PWD /Users/michalblazek/Desktop/Zpevnik/songs
+INPUT /usr/local/texlive/2015basic/texmf.cnf
+INPUT /usr/local/texlive/2015basic/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2015basic/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT SlzyTvyMamy.tex
+OUTPUT SlzyTvyMamy.log
+INPUT /usr/local/texlive/2015basic/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
